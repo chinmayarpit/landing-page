@@ -1,0 +1,1 @@
+Landing page for a dummy website as stated in the exercise for Foundation Course on the Odin Project: [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
